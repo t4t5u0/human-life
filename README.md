@@ -1,6 +1,6 @@
 # 人間生活
 
-[manaba](https://manaba.fun.ac.jp/ct/home)
+[manaba](https://manaba.fun.ac.jp/ct/home){:target="_blank"}
 
 [hope](https://hope.c.fun.ac.jp/course/index.php?categoryid=2)
 

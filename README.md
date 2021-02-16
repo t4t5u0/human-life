@@ -3,6 +3,8 @@
 ## 説明
 たつおが人間生活を送るためのリポジトリです．
 
+ディスカッションにコメントすると、僕に通知が届くので連絡用としても使えます
+
 ## プロジェクト
 - [やること・やりたいこと](https://github.com/t4t5u0/human-life/projects/1)
 - [予定](https://github.com/t4t5u0/human-life/projects/2)
